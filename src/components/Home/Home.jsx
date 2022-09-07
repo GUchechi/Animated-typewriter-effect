@@ -5,7 +5,7 @@ import './Home.css'
 const Home = () => {
     const [state] = useState({
         title: 'Hi,',
-        titleTwo: "I'm",
+        titleTwo: "I'm,",
         titleThree: "Godswill Uchechi",
     })
 

@@ -1,0 +1,27 @@
+.home {
+    background-color: #052142;
+    height: 90vh;
+    width: 100%;
+    display: flex;
+}
+
+.home-intro{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 100px;
+    font-size: 50px;
+    color: #fff;
+}
+
+.home-image {
+    width: 50%;
+    height: 80vh;
+}
+
+.my-image {
+    margin: 50px auto;
+    height: 80vh;
+}
