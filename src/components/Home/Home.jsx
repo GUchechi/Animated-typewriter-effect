@@ -7,7 +7,6 @@ const Home = () => {
         title: 'Hi,',
         titleTwo: "I'm",
         titleThree: "Godswill Uchechi",
-        image: ""
     })
 
 
@@ -37,7 +36,7 @@ const Home = () => {
             </div>
         </div>
         <div className="home-image">
-            <img className='my-image' src={state.image} alt="Godswill" />
+            <img className='my-image' src={require("../../img/Uche.jpg")} alt="Godswill" />
         </div>
     </div>
   )
