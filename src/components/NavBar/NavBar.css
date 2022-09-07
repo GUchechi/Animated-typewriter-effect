@@ -9,3 +9,10 @@
     align-items: center;
     border-bottom: 2px solid #e7c76d;
 }
+
+.name{
+    animation-name: moveRight;
+    animation-duration: 1.3s;
+    color: #fbff00;
+    margin-bottom: 10px;
+}
