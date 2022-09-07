@@ -32,6 +32,9 @@ const Home = () => {
                         ],
                     }}/>
             </div>
+            <div className="contact-me">
+                <button className='button'>Contact me!</button>
+            </div>
         </div>
     </div>
   )
