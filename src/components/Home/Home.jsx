@@ -36,6 +36,9 @@ const Home = () => {
                 <button className='button'>Contact me!</button>
             </div>
         </div>
+        <div className="home-image">
+            <img className='my-image' src={state.image} alt="Godswill" />
+        </div>
     </div>
   )
 }
